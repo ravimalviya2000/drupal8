@@ -1,0 +1,14 @@
+uuid: e7905ba0-0679-4298-8bec-147c422ef5c6
+name: admin
+mail: ravi.malviya2000@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
